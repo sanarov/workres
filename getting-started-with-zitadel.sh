@@ -846,8 +846,8 @@ services:
       "--log-file", "console",
       "--log-level", "info",
       "--disable-anonymous-metrics=false",
-      "--single-account-mode-domain=netbird.selfhosted",
-      "--dns-domain=netbird.selfhosted",
+      "--single-account-mode-domain=vpn.sanarov.dev",
+      "--dns-domain=vpn.sanarov.dev",
       "--idp-sign-key-refresh-enabled",
     ]
     logging:
